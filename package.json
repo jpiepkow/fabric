@@ -59,7 +59,7 @@
   "deprecated": false,
   "description": "Object model for HTML5 canvas, and SVG-to-canvas parser. Backed by jsdom and node-canvas.",
   "devDependencies": {
-    "eslint": "2.x.x",
+    "eslint": "6.x.x",
     "istanbul": "0.4.x",
     "onchange": "^3.0.2",
     "qunit": "0.9.x",
